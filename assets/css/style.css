@@ -1,0 +1,135 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.34;
+}
+a{
+    color: #385898;
+}
+
+label{
+    margin-bottom: .2rem;
+}
+
+/* top bar */
+
+.top_bar{
+    color: #ffffff;
+    background-color: #3b5998;
+    background-image: linear-gradient(#536b9e, #3b5998) ;
+    padding: .8rem 0 .3rem;
+    font-size: small;
+}
+
+.top_bar form table tr td{
+    padding-right: 1rem;
+    font-size: .8rem;
+}
+
+.login_button{
+    background-color: #4267b2;
+    color: #ffffff;
+    border: 1px solid #29487d;
+    border-radius: 2px;
+    padding: .1rem .3rem;
+    font-weight: 600;
+}
+
+
+.top_bar form table tr td a{
+    cursor: pointer;
+    color: azure;
+    opacity: .5;
+}
+
+.top_bar form a:hover{
+    text-decoration: underline;
+}
+/* top bar */
+
+
+
+/* content body */
+
+.content_body{
+    background-image: linear-gradient(#ffffff, #d4d9e8);
+    padding: 2rem;
+}
+
+.tagline{
+    color: #0e385f;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: 0 3rem;
+}
+
+.content_body form input{
+    margin: 0.6rem 0.5rem 0 0;
+    border: 1px solid #bdc7d8;
+    border-radius: .3rem;
+    padding: .3rem;
+    font-size: 1.1rem;
+}
+
+.content_body form h5{
+    margin: 1.2rem 0 0.2rem;
+    opacity: .5;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.content_body form p{
+    font-size: .7rem;
+    opacity: .7;
+    padding-right: 8rem;
+}
+
+.content_body form label{
+    padding-right: 2rem;
+}
+
+.content_body form button{
+    margin: .3rem 0 2rem;
+    font-size: 1.1rem;
+    color: #fff;
+    background-image: linear-gradient(#67ae55, #578843);
+    padding: .4rem 4.5rem;
+    border: 1px solid #3b6e22;
+    border-radius: .3rem;
+    box-shadow: inset 0 2px 2px #a4e388;
+}
+
+.content_body .create_page{
+    font-size: .8rem;
+    font-weight: 600;
+    opacity: .8;
+}
+/* content body */
+
+/* footer */
+
+footer{
+    padding: 3rem 8rem;
+}
+
+footer button{
+    background-color: #f5f6f7;
+    border: 1px solid #ccd0d5;
+    border-radius: .1rem;
+    padding: .0 .6rem;
+    line-height: 1.2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    opacity: .5;
+}
+
+footer a{
+    font-size: .8rem;
+    padding: .3rem;
+}
+
+footer p{
+    padding-top: 1.5rem;
+    font-size: .7rem;
+    opacity: .8;
+}
+
