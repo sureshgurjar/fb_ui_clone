@@ -1,0 +1,27 @@
+
+/* media queries */
+
+@media only screen and (max-width: 600px){
+    footer{
+        padding: 3rem;
+    }
+
+    input{
+        width: 100%;
+    }
+
+    input[type=radio]{
+        width: 0;
+    }
+
+    .content_body form label{
+        padding-right: .3rem;
+    }
+}
+
+
+@media only screen and (max-width: 530px){
+    .tagline{
+        padding: 0 1.2rem;
+    }
+}
