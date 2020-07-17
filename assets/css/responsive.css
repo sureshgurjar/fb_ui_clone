@@ -11,7 +11,7 @@
     }
 
     input[type=radio]{
-        width: 1%;
+        width: 100%;
     }
 
     .content_body form label{
