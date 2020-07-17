@@ -5,5 +5,12 @@ I have created a responsive facebook homepage ui clone using
 
 below are my screenshot links:
 
+
+ #Desktop Version
 <img src="https://i.ibb.co/VHWSNFm/facebook-clone.png" width="70%" >
-<img src="https://i.ibb.co/n0SxSsV/Screenshot-2020-07-14-Facebook-Clone.png" width="70%" >
+
+
+<img src="https://i.ibb.co/6Xm0cXP/Screenshot-2020-07-17-Facebook-Clone.png" width="70%" >
+
+ #Mobile/Responsive Mode
+<img src="https://i.ibb.co/sJJNzF5/facebook-clone-1.png" >
